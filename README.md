@@ -1,0 +1,1 @@
+A merkle proof contract which checks the addresses of those who claimed before the release of the airdrop
